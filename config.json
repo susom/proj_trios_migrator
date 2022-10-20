@@ -1,7 +1,7 @@
 {
   "name": "Project TRIOS Migrator",
   "namespace": "Stanford\\ProjTRIOSMigrator",
-  "description": "This EM migrates data from old TRIOS to new TRIOS",
+  "description": "This EM migrates data from old TRIOS to new TRIOS foo",
   "documentation": "README.md",
   "framework-version": 9,
   "authors": [
