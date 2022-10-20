@@ -2,6 +2,11 @@
   "name": "Project TRIOS Migrator",
   "namespace": "Stanford\\ProjTRIOSMigrator",
   "description": "This EM migrates data from old TRIOS to new TRIOS",
+  "versions": [
+    {
+      "1.0 ": "First Version"
+    }
+  ],
   "authors": [
     {
       "name": "Jae Lee",
