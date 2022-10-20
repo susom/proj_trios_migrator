@@ -2,11 +2,8 @@
   "name": "Project TRIOS Migrator",
   "namespace": "Stanford\\ProjTRIOSMigrator",
   "description": "This EM migrates data from old TRIOS to new TRIOS",
-  "versions": [
-    {
-      "1.0 ": "First Version"
-    }
-  ],
+  "documentation": "README.md",
+  "framework-version": 9,
   "authors": [
     {
       "name": "Jae Lee",
@@ -82,5 +79,12 @@
       "required": false,
       "type": "text"
     }
-  ]
+  ],
+
+  "compatibility": {
+    "php-version-min": "",
+    "php-version-max": "",
+    "redcap-version-min": "",
+    "redcap-version-max": ""
+  }
 }
